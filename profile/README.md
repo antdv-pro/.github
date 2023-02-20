@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Ant Design</h1>
+<h3 align="center">Antd Tiny Vue</h1>
 
 <p align="center">Create an efficient and enjoyable work experience</p>
 
