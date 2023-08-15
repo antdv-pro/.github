@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://antdv-pro.com">
-    <img width="100" src="https://assets.ffcampus.cn/antdv-pro.svg">
+    <img width="100" src="./antdv-pro.svg">
   </a>
 </p>
 
